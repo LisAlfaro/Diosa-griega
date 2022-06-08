@@ -1,0 +1,64 @@
+<main id="main">
+  <h1 id="title">Medusa</h1>
+  <h3 id="headline">El mito de una Diosa</h3>
+  <p>Cuenta la leyenda que Medusa era una mujer mortal, hermosa y tentadora como el más dulce de los pecados.</p>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://i.pinimg.com/564x/be/46/bf/be46bf06bfa376973567a5010f788029.jpg"
+      alt="Medusa en su trono"
+    />
+    <figcaption id="img-caption">
+     Tanta era su belleza que Poseidón, dios del mar, queda prendado de ella y no descansa hasta conseguir satisfacer su deseo, contra voluntad de la muchacha, en el templo de Atenea.
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">El castigo de medusa</h3>
+    <ul>
+      <li> - Atenea, diosa de la pureza y castidad entre otras cosas, se ve terriblemente ofendida y castiga a Medusa convirtiendola en un monstruo y desterrandola de vivir en las tierras hiperbóreas. Atenea se vio celosa de la hermosa cabellera que tenía Medusa, razón por la cual convirtió sus cabellos en serpientes y en sus ojos creó una intensidad tal que si los mirabas fijamente, te volvias de piedra. </li>
+     <h3 id="headline">La vida de un monstruo</h3>
+      <li>
+        - Medusa se había transformado en un monstruo pero aún se hacía valer por su andar provocador y sensual que hipnotizaba casi tanto como su mirada."
+      </li>
+      
+      <li> - De aquella relación con Poseidon surgió un embarazo, por lo que Atenea ordenó a Perseo que la matara.
+      </li>
+      <h3 id="headline">La muerte de Medusa</h3>
+      <li> - Perseo le cortó la cabeza en un solo acto y del cuello, salieron sus hijos Pegaso y Crisaor. La cabeza de Medusa fue utilizada por Atenea como escudo en sus batallas y su sangre fue guardada, ya que la de su vena izquierda era un veneno mortal, y la del lado derecho, tenía características sanadoras y resucitaba a los muertos.
+      </li>
+      <li>
+       - Perseo, quien después usó su cabeza como arma hasta que se la dio a la diosa Atenea para que la pusiera en su escudo, la égida. Desde la antigüedad clásica, la imagen de la cabeza de Medusa aparece representada en el artilugio que aleja el mal conocido como Gorgoneion
+      </li>
+      <li>
+         - Desde entonces, la cabeza de Medusa fue imágen del escudo de la casta Atenea como instrumento para atemorizar al enemigo.
+
+En ello se unía la perversión y la virtud…porque nunca nada es tan bueno, ni a la vez tan malo.
+      </li>
+      <li><strong>Medusa</strong> - Para muchos una diosa, para otros un monstruo.</li>
+    </ul>
+    <figure id="img-div">
+    <img
+      id="image"
+      src="https://i.pinimg.com/564x/2e/c6/d4/2ec6d458b8cbd5d5ff64041cda0a6d3b.jpg"
+      alt="Perseo corta la cabeza de Medusa"
+    />
+    <blockquote
+      cite="http://news.rediff.com/report/2009/sep/14/pm-pays-tribute-to-father-of-green-revolution-borlaug.htm"
+    >
+      <p>
+        " Atenea, ordenó a Perseo que matara a Medusa, en su misión, tuvo que usar las sandalias aladas que Hermes le dio, el casco de invisibilidad de Hades, una espada y un escudo espejado, el héroe fue a visitar las Grayas para que le dijeran donde se encontraba la cueva de las gorgonas. Perseo cumplió su misión, esperó a que Medusa se durmiera en su guarida y volando con sus sandalias logró ubicarse por encima sin mirarla directamente solo observando el reflejo. Su mano iba siendo guiada por Atenea y así cortó su cabeza en un solo acto."
+      </p>
+      <cite>-- María de los Ángeles Herrera Romero</cite>
+    </blockquote>
+    <h3>
+      Si desea conocer más sobre Medusa, Diosa Griega, haz 
+      <a
+        id="tribute-link"
+        href="https://alternativas.me/21-numero-especial-de-genero-mayo-2015/96-el-mito-de-medusa-historia-de-una-seduccion"
+        target="_blank"
+        >Aquí</a
+      >
+    </h3>
+       
+  </section>
+</main>
